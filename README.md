@@ -6,3 +6,4 @@
 * Git
 * Github
 * Markdown
+* VSCode
